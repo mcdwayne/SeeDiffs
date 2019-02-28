@@ -10,3 +10,4 @@ We hope to push out a new diff image of the work daily, but no one is being paid
 
 Sorry, no outside pull requests will be honored, but you are welcome to comment  
 
+[SeeDiffs.com](https://SeeDiffs.com)
