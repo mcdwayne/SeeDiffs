@@ -1,0 +1,20 @@
+
+Unix
+Bash
+DRY
+Recursion
+anti-patterns
+caching
+DB
+API
+version control
+Arrays
+P vs NP
+The CPU and RAM
+Concurrency
+Race Conditions and deadlocks
+Social Engineering hacks
+Serverless
+Containers
+
+
